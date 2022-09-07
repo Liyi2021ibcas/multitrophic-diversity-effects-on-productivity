@@ -9,4 +9,4 @@ R version 4.0.5 -- "Bunny-Wunnies Freak Out"
 Copyright (C) 2020 The R Foundation for Statistical Computing
 
 Li et al_multitrophic diversity and productivity analyses.R 
--> This code will show how we analyzed the relatinships (1)between tree speceis richness and arthropod diversity; (2) between arthropod diversity and primary productivity; (3)among tree speceis richness, functional traits, arthropod diversity and primary productivity.
+-> This code will show how we analyzed the relationships (1)between tree speceis richness and arthropod diversity; (2) between arthropod diversity and primary productivity; (3)among tree speceis richness, leaf functional traits (i.e., FD & CWM), arthropod diversity and primary productivity.
