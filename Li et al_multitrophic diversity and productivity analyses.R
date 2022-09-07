@@ -70,7 +70,7 @@ ggplot(data =multitrophic,aes(x = log(herbivore_diversity+1),y = stand_volume,co
   (scale_y_continuous(breaks=c(sqrt(4),sqrt(25),sqrt(81),sqrt(169),sqrt(289)),labels= c("4","25","81","169","289")))+
   theme_classic()+
   xlab("herbivore richness")+ 
-  ylab(bquote(Primary~ productivity~ (m^3~ha^-1)))
+  ylab(bquote(Primary~ productivity~ (m^3~ha^-1))))
   
 p1
 # Note: (1) stand_voluume could be replaced by stannd_volume increment;
